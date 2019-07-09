@@ -15,8 +15,9 @@ img {
 }
 
 nav a {
-margin-left:auto;
-    margin-right:auto;
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
   padding: 10px;
   background-color: #C0C0C0;
 }
