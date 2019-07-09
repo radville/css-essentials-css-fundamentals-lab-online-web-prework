@@ -40,3 +40,9 @@ p#featured-property {
 div#details {
   float: left;
 }
+
+div {
+  background-color: #C0C0C0;
+  text-align: center;
+  width: 25%;
+}
