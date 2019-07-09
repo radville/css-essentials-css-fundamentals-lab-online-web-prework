@@ -24,15 +24,17 @@ nav a {
 }
 
 figcaption {
-  text-align: center;
+  /*text-align: center;*/
   font-size: 10px;
-  margin-left: auto;
-  margin-right: auto;
+  /*margin-left: auto;*/
+  /*margin-right: auto;*/
 }
 
-p#featured-property {
+#featured-property {
   width: 800px;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #details {
