@@ -42,9 +42,9 @@ figcaption {
   display: block;
 }
 
-#details {
-  float: left;
-}
+/*#details {*/
+/*  float: left;*/
+/*}*/
 
 div {
   background-color: #C0C0C0;
